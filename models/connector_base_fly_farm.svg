@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (0767f8302a, 2020-10-17)"
+   sodipodi:docname="connector_base_fly_farm.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.4005479"
+     inkscape:cx="85.259506"
+     inkscape:cy="117.14014"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     inkscape:lockguides="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true"
+     inkscape:snap-grids="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="847"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid835"
+       units="mm" />
+    <sodipodi:guide
+       position="34.72914,281.77461"
+       orientation="0,-1"
+       id="guide1014" />
+    <sodipodi:guide
+       position="33.048977,277.92929"
+       orientation="0,-1"
+       id="guide1016" />
+    <sodipodi:guide
+       position="43.309581,286.76164"
+       orientation="1,0"
+       id="guide1026" />
+    <sodipodi:guide
+       position="5.8095957,286.76354"
+       orientation="1,0"
+       id="guide1028" />
+    <sodipodi:guide
+       position="25.133158,250.76954"
+       orientation="0,-1"
+       id="guide1030" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0881944;stop-color:#000000"
+       id="rect900"
+       width="45"
+       height="35"
+       x="2.0595889"
+       y="15.202553"
+       rx="3.9999974"
+       ry="3.9999974" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0881943;stop-color:#000000"
+       id="rect840"
+       width="35"
+       height="25"
+       x="7.0595889"
+       y="20.202553"
+       rx="3"
+       ry="3" />
+    <path
+       id="circle858"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0881943;stop-color:#000000"
+       d="m 44.798282,19.070711 a 1.5,1.5 0 0 1 -1.5,1.5 1.5,1.5 0 0 1 -1.5,-1.5 1.5,1.5 0 0 1 1.5,-1.5 1.5,1.5 0 0 1 1.5,1.5 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.266706px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 5.8095958,10.236471 37.4999862,0.0019"
+       id="path994" />
+    <path
+       id="path1032"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0881943;stop-color:#000000"
+       d="m 44.798282,46.230461 a 1.5,1.5 0 0 1 -1.5,1.5 1.5,1.5 0 0 1 -1.5,-1.5 1.5,1.5 0 0 1 1.5,-1.5 1.5,1.5 0 0 1 1.5,1.5 z" />
+    <path
+       id="path1034"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0881943;stop-color:#000000"
+       d="m 7.3069678,19.070711 a 1.5,1.5 0 0 1 -1.4999991,1.5 1.5,1.5 0 0 1 -1.4999994,-1.5 1.5,1.5 0 0 1 1.4999994,-1.5 1.5,1.5 0 0 1 1.4999991,1.5 z" />
+    <path
+       id="path1036"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.0881943;stop-color:#000000"
+       d="m 7.3069678,46.230461 a 1.5,1.5 0 0 1 -1.4999991,1.5 1.5,1.5 0 0 1 -1.4999994,-1.5 1.5,1.5 0 0 1 1.4999994,-1.5 1.5,1.5 0 0 1 1.4999991,1.5 z" />
+  </g>
+</svg>
